@@ -1,0 +1,14 @@
+name = "i2m-build-bot"
+main = "src/index.ts"
+compatibility_date = "2025-03-01"
+
+# Set secrets after deploy (never commit real values):
+#   npx wrangler secret put DISCORD_PUBLIC_KEY
+#   npx wrangler secret put DISCORD_APPLICATION_ID
+#   npx wrangler secret put DISCORD_TOKEN
+#
+# Optional for guild-scoped command registration (instant):
+#   DISCORD_GUILD_ID in .dev.vars / env when running npm run register
+
+[vars]
+# Non-secret config can go here later if needed.

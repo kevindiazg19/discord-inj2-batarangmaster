@@ -1,0 +1,16 @@
+[
+  {
+    "id": "batman",
+    "name": "Batman",
+    "aliases": ["bats", "bruce", "bruce wayne"],
+    "class": "might",
+    "rarity": "gold"
+  },
+  {
+    "id": "wonder-woman",
+    "name": "Wonder Woman",
+    "aliases": ["ww", "diana", "diana prince"],
+    "class": "might",
+    "rarity": "gold"
+  }
+]

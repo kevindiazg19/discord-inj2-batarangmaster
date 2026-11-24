@@ -1,0 +1,24 @@
+{
+  "name": "i2m-build-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Free Injustice 2 Mobile build-lookup Discord bot on Cloudflare Workers",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "register": "tsx src/register.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test test/*.test.ts"
+  },
+  "dependencies": {
+    "discord-interactions": "^4.1.1"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261123.1",
+    "@types/node": "^22.13.10",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2",
+    "wrangler": "^4.1.0"
+  }
+}
