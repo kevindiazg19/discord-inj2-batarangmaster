@@ -11,4 +11,6 @@ compatibility_date = "2025-03-01"
 #   DISCORD_GUILD_ID in .dev.vars / env when running npm run register
 
 [vars]
-# Non-secret config can go here later if needed.
+# Public Discord identifiers (not secrets). Bot token stays in .dev.vars / wrangler secrets.
+DISCORD_PUBLIC_KEY = "333ac757116b854c14cf926e6c32cbb2f25472aa8eb473ec8a48d621fbc4ccd5"
+DISCORD_APPLICATION_ID = "1574850545368436930"
