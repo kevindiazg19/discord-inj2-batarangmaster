@@ -1,19 +1,19 @@
 /** Slash command definitions registered with Discord's API. */
 
-export const BUILD_COMMAND = {
-  name: "build",
-  description: "Show a curated Injustice 2 Mobile build for a character",
+export const GUIA_COMMAND = {
+  name: "guia",
+  description: "Muestra la guía/build recomendada de un personaje de Injustice 2 Mobile",
   options: [
     {
       type: 3, // STRING
       name: "character",
-      description: "Character name or alias (e.g. batman, ww)",
+      description: "Nombre o alias del personaje (ej. batman, ww)",
       required: true,
     },
     {
       type: 3,
       name: "mode",
-      description: "Build variant id (e.g. raid, arena)",
+      description: "Variante de la guía (ej. raid, arena)",
       required: false,
     },
   ],
@@ -21,12 +21,12 @@ export const BUILD_COMMAND = {
 
 export const LIST_COMMAND = {
   name: "list",
-  description: "List characters that have curated builds",
+  description: "Lista los personajes que tienen guía",
 } as const;
 
 export const HELP_COMMAND = {
   name: "help",
-  description: "How to use the Injustice 2 Mobile build bot",
+  description: "Cómo usar el bot de guías de Injustice 2 Mobile",
 } as const;
 
-export const ALL_COMMANDS = [BUILD_COMMAND, LIST_COMMAND, HELP_COMMAND];
+export const ALL_COMMANDS = [GUIA_COMMAND, LIST_COMMAND, HELP_COMMAND];

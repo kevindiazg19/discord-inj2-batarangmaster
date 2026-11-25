@@ -3,7 +3,7 @@ import {
   InteractionType,
   verifyKey,
 } from "discord-interactions";
-import { BUILD_COMMAND, HELP_COMMAND, LIST_COMMAND } from "./commands.js";
+import { GUIA_COMMAND, HELP_COMMAND, LIST_COMMAND } from "./commands.js";
 import {
   buildEmbed,
   helpEmbed,
@@ -53,7 +53,7 @@ function handleBuild(options: { name: string; value: string }[] | undefined) {
       return new JsonResponse({
         type: InteractionResponseType.CHANNEL_MESSAGE_WITH_SOURCE,
         data: {
-          content: `No mode \`${modeOpt}\` for **${character.name}**. Try: ${modes}`,
+          content: `No hay modo \`${modeOpt}\` para **${character.name}**. Prueba: ${modes}`,
           flags: ephemeralFlags(),
         },
       });
@@ -62,7 +62,7 @@ function handleBuild(options: { name: string; value: string }[] | undefined) {
     return new JsonResponse({
       type: InteractionResponseType.CHANNEL_MESSAGE_WITH_SOURCE,
       data: {
-        content: `**${character.name}** has no builds yet.`,
+        content: `**${character.name}** todavía no tiene guía.`,
         flags: ephemeralFlags(),
       },
     });
@@ -88,7 +88,7 @@ async function handleInteraction(interaction: {
     const name = interaction.data?.name?.toLowerCase();
 
     switch (name) {
-      case BUILD_COMMAND.name:
+      case GUIA_COMMAND.name:
         return handleBuild(interaction.data?.options);
       case LIST_COMMAND.name:
         return new JsonResponse({
@@ -125,7 +125,7 @@ export default {
           "Injustice 2 Mobile Build Bot",
           "",
           "This endpoint receives Discord slash-command interactions.",
-          "Invite the bot to your server and use /build, /list, or /help.",
+          "Invite the bot to your server and use /guia, /list, or /help.",
           "",
           "Setup: see README.md",
         ].join("\n"),

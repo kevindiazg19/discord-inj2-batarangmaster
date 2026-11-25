@@ -58,12 +58,12 @@ export function buildEmbed(character: Character, build: Build): Embed {
 export function notFoundEmbed(query: string, suggestions: { name: string; id: string }[]): Embed {
   const tip =
     suggestions.length > 0
-      ? suggestions.map((s) => `• **${s.name}** (\`/build character:${s.id}\`)`).join("\n")
-      : "Try `/list` to see every character with a build.";
+      ? suggestions.map((s) => `• **${s.name}** (\`/guia character:${s.id}\`)`).join("\n")
+      : "Prueba `/list` para ver todos los personajes con guía.";
 
   return {
-    title: "Character not found",
-    description: clamp(`No build matched **${query}**.\n\n${tip}`, 4096),
+    title: "Personaje no encontrado",
+    description: clamp(`No hay guía para **${query}**.\n\n${tip}`, 4096),
     color: 0xb33a3a,
     fields: [],
   };
@@ -77,11 +77,11 @@ export function listEmbed(
   );
 
   return {
-    title: "Characters with builds",
+    title: "Personajes con guía",
     description: clamp(
       lines.length
-        ? `${lines.join("\n")}\n\nUse \`/build character:<name>\``
-        : "No characters yet. Add JSON under `data/characters/`.",
+        ? `${lines.join("\n")}\n\nUsa \`/guia character:<nombre>\``
+        : "Aún no hay personajes. Agrega JSON en `data/characters/`.",
       4096
     ),
     color: EMBED_COLOR,
@@ -91,15 +91,15 @@ export function listEmbed(
 
 export function helpEmbed(): Embed {
   return {
-    title: "I2M Build Bot",
+    title: "I2M Guía Bot",
     description:
-      "Look up curated Injustice 2 Mobile builds.\n\n" +
-      "**Commands**\n" +
-      "• `/build character:<name>` — default (highest priority) build\n" +
-      "• `/build character:<name> mode:<raid|arena|…>` — specific variant\n" +
-      "• `/list` — characters that have builds\n" +
-      "• `/help` — this message\n\n" +
-      "Aliases work too (e.g. `ww`, `bats`).",
+      "Consulta guías/builds curadas de Injustice 2 Mobile.\n\n" +
+      "**Comandos**\n" +
+      "• `/guia character:<nombre>` — guía principal (mayor prioridad)\n" +
+      "• `/guia character:<nombre> mode:<raid|arena|…>` — variante específica\n" +
+      "• `/list` — personajes que tienen guía\n" +
+      "• `/help` — este mensaje\n\n" +
+      "También funcionan alias (ej. `ww`, `bats`).",
     color: EMBED_COLOR,
     fields: [],
   };

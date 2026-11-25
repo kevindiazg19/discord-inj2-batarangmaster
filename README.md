@@ -4,10 +4,10 @@ Free Discord slash-command bot that returns curated Injustice 2 Mobile builds as
 
 Commands:
 
-- `/build character:<name>` — default build (highest priority)
-- `/build character:<name> mode:<raid|arena|…>` — specific variant
-- `/list` — characters that have builds
-- `/help` — short usage
+- `/guia character:<name>` — guía principal (mayor prioridad)
+- `/guia character:<name> mode:<raid|arena|…>` — variante específica
+- `/list` — personajes que tienen guía
+- `/help` — uso breve
 
 ## Cost
 
@@ -93,7 +93,7 @@ npm run register
 
 Guild registration is near-instant. Without `DISCORD_GUILD_ID`, commands are global and can take up to an hour.
 
-In Discord, try `/build character:batman`.
+In Discord, try `/guia character:batman`.
 
 ## Local development
 
@@ -114,7 +114,7 @@ Build fields:
 
 | Field | Meaning |
 | --- | --- |
-| `builds[].id` | Mode key for `/build … mode:` (`raid`, `arena`, …) |
+| `builds[].id` | Mode key for `/guia … mode:` (`raid`, `arena`, …) |
 | `builds[].priority` | Lower number = default when mode omitted |
 | `abilityOrder` | Recommended SP upgrade order |
 | `talents` | Preferred talent stats |
