@@ -1,0 +1,28 @@
+{
+  "id": "svgl",
+  "name": "Silver Green Lantern",
+  "aliases": [
+    "svgl"
+  ],
+  "class": "",
+  "rarity": "silver",
+  "faction": "Green Lantern Corps",
+  "builds": [
+    {
+      "id": "default",
+      "label": "Guía principal",
+      "priority": 1,
+      "abilityOrder": [],
+      "abilityNotes": "",
+      "talents": [],
+      "talentNotes": "",
+      "gear": {
+        "focus": "",
+        "chanceEffects": [],
+        "artifact": ""
+      },
+      "teamSynergy": [],
+      "notes": "Pendiente de completar."
+    }
+  ]
+}

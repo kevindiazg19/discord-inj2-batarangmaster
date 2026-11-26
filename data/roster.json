@@ -1,0 +1,2872 @@
+[
+  {
+    "id": "jla",
+    "name": "Justice League Aquaman",
+    "aliases": [
+      "jla"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Justice League",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "jlb",
+    "name": "Justice League Batman",
+    "aliases": [
+      "jlb"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Justice League",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "jlc",
+    "name": "Justice League Cyborg",
+    "aliases": [
+      "jlc"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Justice League",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "jlf",
+    "name": "Justice League Flash",
+    "aliases": [
+      "jlf"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Justice League",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "jlsm",
+    "name": "Justice League Superman",
+    "aliases": [
+      "jlsm",
+      "jls"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Justice League",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "mww",
+    "name": "Mythic Wonder Woman",
+    "aliases": [
+      "mww"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Justice League",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "mvasg",
+    "name": "Multiverse Armored Supergirl",
+    "aliases": [
+      "mvasg"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "mvbw",
+    "name": "Multiverse Batwoman",
+    "aliases": [
+      "mvbw"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "mvbl",
+    "name": "Multiverse Black Lightning",
+    "aliases": [
+      "mvbl"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "mvcc",
+    "name": "Multiverse Captain Cold",
+    "aliases": [
+      "mvcc"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "mvga",
+    "name": "Multiverse Green Arrow",
+    "aliases": [
+      "mvga"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "mvf",
+    "name": "Multiverse Flash",
+    "aliases": [
+      "mvf"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "mvsg",
+    "name": "Multiverse Supergirl",
+    "aliases": [
+      "mvsg"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "mvwc",
+    "name": "Multiverse White Canary",
+    "aliases": [
+      "mvwc"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "bnbm",
+    "name": "Batman Ninja Batman",
+    "aliases": [
+      "bnbm"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Batman Ninja",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "bncw",
+    "name": "Batman Ninja Catwoman",
+    "aliases": [
+      "bncw"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Batman Ninja",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "bngg",
+    "name": "Batman Ninja Gorilla Grodd",
+    "aliases": [
+      "bngg"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Batman Ninja",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "bnhq",
+    "name": "Batman Ninja Harley Quinn",
+    "aliases": [
+      "bnhq"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Batman Ninja",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "bnlj",
+    "name": "Batman Ninja Lord Joker",
+    "aliases": [
+      "bnlj"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Batman Ninja",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "bnr",
+    "name": "Batman Ninja Robin",
+    "aliases": [
+      "bnr"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Batman Ninja",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "epi",
+    "name": "Entangling Poison Ivy",
+    "aliases": [
+      "epi"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "League of Anarchy",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "hbhq",
+    "name": "Heart Breaker Harley Quinn",
+    "aliases": [
+      "hbhq"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "League of Anarchy",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "llj",
+    "name": "Last Laugh Joker",
+    "aliases": [
+      "llj"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "League of Anarchy",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "ssds",
+    "name": "Suicide Squad Deadshot",
+    "aliases": [
+      "ssds"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Suicide Squad",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "sshq",
+    "name": "Suicide Squad Harley Quinn",
+    "aliases": [
+      "sshq"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Suicide Squad",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "sse",
+    "name": "Suicide Squad Enchantress",
+    "aliases": [
+      "sse"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Suicide Squad",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "egl",
+    "name": "Emerald Green Lantern",
+    "aliases": [
+      "egl"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Green Lantern Corps",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "jsgl",
+    "name": "John Stewart Green Lantern",
+    "aliases": [
+      "jsgl"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Green Lantern Corps",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svgl",
+    "name": "Silver Green Lantern",
+    "aliases": [
+      "svgl"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Green Lantern Corps",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "akbm",
+    "name": "Arkham Knight Batman",
+    "aliases": [
+      "akbm"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "bm",
+    "name": "Black Manta",
+    "aliases": [
+      "bm"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "brnc",
+    "name": "Brainiac",
+    "aliases": [
+      "brnc"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "bwl",
+    "name": "Batman Who Laughs",
+    "aliases": [
+      "bwl"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "cows",
+    "name": "Collector of Worlds Superman",
+    "aliases": [
+      "cows"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "ds",
+    "name": "Darkseid",
+    "aliases": [
+      "ds",
+      "darkside"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "dsk",
+    "name": "Deathstroke",
+    "aliases": [
+      "dsk"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "gaww",
+    "name": "Golden Armor Wonder Woman",
+    "aliases": [
+      "gaww"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "mm",
+    "name": "Martian Manhunter",
+    "aliases": [
+      "mm",
+      "martian man hunter"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "mrf",
+    "name": "Mr. Freeze",
+    "aliases": [
+      "mrf",
+      "mr freeze"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "rvn",
+    "name": "Raven",
+    "aliases": [
+      "rvn"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "zat",
+    "name": "Zatanna",
+    "aliases": [
+      "zat"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "aga",
+    "name": "Ace Green Arrow",
+    "aliases": [
+      "aga"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "asm",
+    "name": "Armored Superman",
+    "aliases": [
+      "asm"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "aaam",
+    "name": "Atlantean Armor Aquaman",
+    "aliases": [
+      "aaam"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "atc",
+    "name": "Atrocitus",
+    "aliases": [
+      "atc"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "btd",
+    "name": "Batwoman the Drowned",
+    "aliases": [
+      "btd"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "ba",
+    "name": "Black Adam",
+    "aliases": [
+      "ba"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "bmr",
+    "name": "Blade Master Robin",
+    "aliases": [
+      "bmr"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "bb",
+    "name": "Blue Beetle",
+    "aliases": [
+      "bb"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "cc",
+    "name": "Captain Cold",
+    "aliases": [
+      "cc"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "cth",
+    "name": "Cheetah",
+    "aliases": [
+      "cth"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "cbm",
+    "name": "Classic Batman",
+    "aliases": [
+      "cbm"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "csm",
+    "name": "Classic Superman",
+    "aliases": [
+      "csm"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "cww",
+    "name": "Classic Wonder Woman",
+    "aliases": [
+      "cww"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "dsg",
+    "name": "Dark Supergirl",
+    "aliases": [
+      "dsg",
+      "dark super girl"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "esf",
+    "name": "Energised Starfire",
+    "aliases": [
+      "esf",
+      "energized starfire"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "eb",
+    "name": "Enraged Bane",
+    "aliases": [
+      "eb"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "fs",
+    "name": "Firestorm",
+    "aliases": [
+      "fs"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "fpi",
+    "name": "Flora Poison Ivy",
+    "aliases": [
+      "fpi"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "grid",
+    "name": "Grid",
+    "aliases": [
+      "grid"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "hb",
+    "name": "Hellboy",
+    "aliases": [
+      "hb"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "hsc",
+    "name": "Horrific Scarecrow",
+    "aliases": [
+      "hsc"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "kbm",
+    "name": "Knightmare Batman",
+    "aliases": [
+      "kbm"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "mtcw",
+    "name": "Masterthief Catwoman",
+    "aliases": [
+      "mtcw",
+      "master thief catwoman"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "nw",
+    "name": "Nightwing",
+    "aliases": [
+      "nw"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "pbm",
+    "name": "Predator Batman",
+    "aliases": [
+      "pbm"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "pst",
+    "name": "Primal Swamp Thing",
+    "aliases": [
+      "pst"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "psg",
+    "name": "Powered Supergirl",
+    "aliases": [
+      "psg"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "pg",
+    "name": "Power Girl",
+    "aliases": [
+      "pg"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "rdn",
+    "name": "Raiden",
+    "aliases": [
+      "rdn"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "rh",
+    "name": "Red Hood",
+    "aliases": [
+      "rh",
+      "redhood"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "rf",
+    "name": "Reverse Flash",
+    "aliases": [
+      "rf"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "sb",
+    "name": "Silver Banshee",
+    "aliases": [
+      "sb"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "szm",
+    "name": "Shazam",
+    "aliases": [
+      "szm"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svbc",
+    "name": "Sonic Black Canary",
+    "aliases": [
+      "svbc",
+      "sonic black canary"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "ssdf",
+    "name": "Soul Stealer Dr. Fate",
+    "aliases": [
+      "ssdf"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "sff",
+    "name": "Speed Force Flash",
+    "aliases": [
+      "sff"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "sz",
+    "name": "Sub-Zero",
+    "aliases": [
+      "sz",
+      "subzero",
+      "sub zero"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "tkgg",
+    "name": "Telekinetic Gorilla Grodd",
+    "aliases": [
+      "tkgg"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "ubc",
+    "name": "Unbreakable Cyborg",
+    "aliases": [
+      "ubc"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "uhq",
+    "name": "Unhinged Harley Quinn",
+    "aliases": [
+      "uhq"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "vxn",
+    "name": "Vixen",
+    "aliases": [
+      "vxn"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "wqww",
+    "name": "Warrior Queen Wonder Woman",
+    "aliases": [
+      "wqww"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "aww",
+    "name": "Amazon Wonder Woman",
+    "aliases": [
+      "aww"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svam",
+    "name": "Silver Aquaman",
+    "aliases": [
+      "svam"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svb",
+    "name": "Silver Bane",
+    "aliases": [
+      "svb"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svbm",
+    "name": "Silver Batman",
+    "aliases": [
+      "svbm"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svbcs",
+    "name": "Silver Black Canary",
+    "aliases": [
+      "svbcs",
+      "svbc-silver",
+      "silver black canary"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svsm",
+    "name": "Silver Superman",
+    "aliases": [
+      "svsm"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svcw",
+    "name": "Silver Catwoman",
+    "aliases": [
+      "svcw"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svc",
+    "name": "Silver Cyborg",
+    "aliases": [
+      "svc"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svds",
+    "name": "Silver Deadshot",
+    "aliases": [
+      "svds"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svdf",
+    "name": "Silver Doctor Fate",
+    "aliases": [
+      "svdf",
+      "doctor fate"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svf",
+    "name": "Silver Flash",
+    "aliases": [
+      "svf"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svga",
+    "name": "Silver Green Arrow",
+    "aliases": [
+      "svga"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svgg",
+    "name": "Silver Gorilla Grodd",
+    "aliases": [
+      "svgg"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svhq",
+    "name": "Silver Harley Quinn",
+    "aliases": [
+      "svhq"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svj",
+    "name": "Silver Joker",
+    "aliases": [
+      "svj"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svr",
+    "name": "Silver Robin",
+    "aliases": [
+      "svr"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svsc",
+    "name": "Silver Scarecrow",
+    "aliases": [
+      "svsc"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svst",
+    "name": "Silver Swamp Thing",
+    "aliases": [
+      "svst"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  },
+  {
+    "id": "svww",
+    "name": "Silver Wonder Woman",
+    "aliases": [
+      "svww"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver",
+    "builds": [
+      {
+        "id": "default",
+        "label": "Guía principal",
+        "priority": 1,
+        "abilityOrder": [],
+        "abilityNotes": "",
+        "talents": [],
+        "talentNotes": "",
+        "gear": {
+          "focus": "",
+          "chanceEffects": [],
+          "artifact": ""
+        },
+        "teamSynergy": [],
+        "notes": "Pendiente de completar."
+      }
+    ]
+  }
+]

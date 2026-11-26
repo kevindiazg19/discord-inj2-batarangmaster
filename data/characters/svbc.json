@@ -1,0 +1,29 @@
+{
+  "id": "svbc",
+  "name": "Sonic Black Canary",
+  "aliases": [
+    "svbc",
+    "sonic black canary"
+  ],
+  "class": "",
+  "rarity": "gold",
+  "faction": "Gold",
+  "builds": [
+    {
+      "id": "default",
+      "label": "Guía principal",
+      "priority": 1,
+      "abilityOrder": [],
+      "abilityNotes": "",
+      "talents": [],
+      "talentNotes": "",
+      "gear": {
+        "focus": "",
+        "chanceEffects": [],
+        "artifact": ""
+      },
+      "teamSynergy": [],
+      "notes": "Pendiente de completar."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "rvn",
+  "name": "Raven",
+  "aliases": [
+    "rvn"
+  ],
+  "class": "",
+  "rarity": "legendary",
+  "faction": "Legendary",
+  "builds": [
+    {
+      "id": "default",
+      "label": "Guía principal",
+      "priority": 1,
+      "abilityOrder": [],
+      "abilityNotes": "",
+      "talents": [],
+      "talentNotes": "",
+      "gear": {
+        "focus": "",
+        "chanceEffects": [],
+        "artifact": ""
+      },
+      "teamSynergy": [],
+      "notes": "Pendiente de completar."
+    }
+  ]
+}

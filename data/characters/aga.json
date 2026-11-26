@@ -1,0 +1,28 @@
+{
+  "id": "aga",
+  "name": "Ace Green Arrow",
+  "aliases": [
+    "aga"
+  ],
+  "class": "",
+  "rarity": "gold",
+  "faction": "Gold",
+  "builds": [
+    {
+      "id": "default",
+      "label": "Guía principal",
+      "priority": 1,
+      "abilityOrder": [],
+      "abilityNotes": "",
+      "talents": [],
+      "talentNotes": "",
+      "gear": {
+        "focus": "",
+        "chanceEffects": [],
+        "artifact": ""
+      },
+      "teamSynergy": [],
+      "notes": "Pendiente de completar."
+    }
+  ]
+}

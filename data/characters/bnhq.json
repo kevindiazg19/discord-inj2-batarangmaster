@@ -1,0 +1,28 @@
+{
+  "id": "bnhq",
+  "name": "Batman Ninja Harley Quinn",
+  "aliases": [
+    "bnhq"
+  ],
+  "class": "",
+  "rarity": "gold",
+  "faction": "Batman Ninja",
+  "builds": [
+    {
+      "id": "default",
+      "label": "Guía principal",
+      "priority": 1,
+      "abilityOrder": [],
+      "abilityNotes": "",
+      "talents": [],
+      "talentNotes": "",
+      "gear": {
+        "focus": "",
+        "chanceEffects": [],
+        "artifact": ""
+      },
+      "teamSynergy": [],
+      "notes": "Pendiente de completar."
+    }
+  ]
+}

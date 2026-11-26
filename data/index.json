@@ -1,16 +1,1036 @@
 [
   {
-    "id": "batman",
-    "name": "Batman",
-    "aliases": ["bats", "bruce", "bruce wayne"],
-    "class": "might",
-    "rarity": "gold"
+    "id": "jla",
+    "name": "Justice League Aquaman",
+    "aliases": [
+      "jla"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Justice League"
   },
   {
-    "id": "wonder-woman",
-    "name": "Wonder Woman",
-    "aliases": ["ww", "diana", "diana prince"],
-    "class": "might",
-    "rarity": "gold"
+    "id": "jlb",
+    "name": "Justice League Batman",
+    "aliases": [
+      "jlb"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Justice League"
+  },
+  {
+    "id": "jlc",
+    "name": "Justice League Cyborg",
+    "aliases": [
+      "jlc"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Justice League"
+  },
+  {
+    "id": "jlf",
+    "name": "Justice League Flash",
+    "aliases": [
+      "jlf"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Justice League"
+  },
+  {
+    "id": "jlsm",
+    "name": "Justice League Superman",
+    "aliases": [
+      "jlsm",
+      "jls"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Justice League"
+  },
+  {
+    "id": "mww",
+    "name": "Mythic Wonder Woman",
+    "aliases": [
+      "mww"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Justice League"
+  },
+  {
+    "id": "mvasg",
+    "name": "Multiverse Armored Supergirl",
+    "aliases": [
+      "mvasg"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse"
+  },
+  {
+    "id": "mvbw",
+    "name": "Multiverse Batwoman",
+    "aliases": [
+      "mvbw"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse"
+  },
+  {
+    "id": "mvbl",
+    "name": "Multiverse Black Lightning",
+    "aliases": [
+      "mvbl"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse"
+  },
+  {
+    "id": "mvcc",
+    "name": "Multiverse Captain Cold",
+    "aliases": [
+      "mvcc"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse"
+  },
+  {
+    "id": "mvga",
+    "name": "Multiverse Green Arrow",
+    "aliases": [
+      "mvga"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse"
+  },
+  {
+    "id": "mvf",
+    "name": "Multiverse Flash",
+    "aliases": [
+      "mvf"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse"
+  },
+  {
+    "id": "mvsg",
+    "name": "Multiverse Supergirl",
+    "aliases": [
+      "mvsg"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse"
+  },
+  {
+    "id": "mvwc",
+    "name": "Multiverse White Canary",
+    "aliases": [
+      "mvwc"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Multiverse"
+  },
+  {
+    "id": "bnbm",
+    "name": "Batman Ninja Batman",
+    "aliases": [
+      "bnbm"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Batman Ninja"
+  },
+  {
+    "id": "bncw",
+    "name": "Batman Ninja Catwoman",
+    "aliases": [
+      "bncw"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Batman Ninja"
+  },
+  {
+    "id": "bngg",
+    "name": "Batman Ninja Gorilla Grodd",
+    "aliases": [
+      "bngg"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Batman Ninja"
+  },
+  {
+    "id": "bnhq",
+    "name": "Batman Ninja Harley Quinn",
+    "aliases": [
+      "bnhq"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Batman Ninja"
+  },
+  {
+    "id": "bnlj",
+    "name": "Batman Ninja Lord Joker",
+    "aliases": [
+      "bnlj"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Batman Ninja"
+  },
+  {
+    "id": "bnr",
+    "name": "Batman Ninja Robin",
+    "aliases": [
+      "bnr"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Batman Ninja"
+  },
+  {
+    "id": "epi",
+    "name": "Entangling Poison Ivy",
+    "aliases": [
+      "epi"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "League of Anarchy"
+  },
+  {
+    "id": "hbhq",
+    "name": "Heart Breaker Harley Quinn",
+    "aliases": [
+      "hbhq"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "League of Anarchy"
+  },
+  {
+    "id": "llj",
+    "name": "Last Laugh Joker",
+    "aliases": [
+      "llj"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "League of Anarchy"
+  },
+  {
+    "id": "ssds",
+    "name": "Suicide Squad Deadshot",
+    "aliases": [
+      "ssds"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Suicide Squad"
+  },
+  {
+    "id": "sshq",
+    "name": "Suicide Squad Harley Quinn",
+    "aliases": [
+      "sshq"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Suicide Squad"
+  },
+  {
+    "id": "sse",
+    "name": "Suicide Squad Enchantress",
+    "aliases": [
+      "sse"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Suicide Squad"
+  },
+  {
+    "id": "egl",
+    "name": "Emerald Green Lantern",
+    "aliases": [
+      "egl"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Green Lantern Corps"
+  },
+  {
+    "id": "jsgl",
+    "name": "John Stewart Green Lantern",
+    "aliases": [
+      "jsgl"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Green Lantern Corps"
+  },
+  {
+    "id": "svgl",
+    "name": "Silver Green Lantern",
+    "aliases": [
+      "svgl"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Green Lantern Corps"
+  },
+  {
+    "id": "akbm",
+    "name": "Arkham Knight Batman",
+    "aliases": [
+      "akbm"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary"
+  },
+  {
+    "id": "bm",
+    "name": "Black Manta",
+    "aliases": [
+      "bm"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary"
+  },
+  {
+    "id": "brnc",
+    "name": "Brainiac",
+    "aliases": [
+      "brnc"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary"
+  },
+  {
+    "id": "bwl",
+    "name": "Batman Who Laughs",
+    "aliases": [
+      "bwl"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary"
+  },
+  {
+    "id": "cows",
+    "name": "Collector of Worlds Superman",
+    "aliases": [
+      "cows"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary"
+  },
+  {
+    "id": "ds",
+    "name": "Darkseid",
+    "aliases": [
+      "ds",
+      "darkside"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary"
+  },
+  {
+    "id": "dsk",
+    "name": "Deathstroke",
+    "aliases": [
+      "dsk"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary"
+  },
+  {
+    "id": "gaww",
+    "name": "Golden Armor Wonder Woman",
+    "aliases": [
+      "gaww"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary"
+  },
+  {
+    "id": "mm",
+    "name": "Martian Manhunter",
+    "aliases": [
+      "mm",
+      "martian man hunter"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary"
+  },
+  {
+    "id": "mrf",
+    "name": "Mr. Freeze",
+    "aliases": [
+      "mrf",
+      "mr freeze"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary"
+  },
+  {
+    "id": "rvn",
+    "name": "Raven",
+    "aliases": [
+      "rvn"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary"
+  },
+  {
+    "id": "zat",
+    "name": "Zatanna",
+    "aliases": [
+      "zat"
+    ],
+    "class": "",
+    "rarity": "legendary",
+    "faction": "Legendary"
+  },
+  {
+    "id": "aga",
+    "name": "Ace Green Arrow",
+    "aliases": [
+      "aga"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "asm",
+    "name": "Armored Superman",
+    "aliases": [
+      "asm"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "aaam",
+    "name": "Atlantean Armor Aquaman",
+    "aliases": [
+      "aaam"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "atc",
+    "name": "Atrocitus",
+    "aliases": [
+      "atc"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "btd",
+    "name": "Batwoman the Drowned",
+    "aliases": [
+      "btd"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "ba",
+    "name": "Black Adam",
+    "aliases": [
+      "ba"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "bmr",
+    "name": "Blade Master Robin",
+    "aliases": [
+      "bmr"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "bb",
+    "name": "Blue Beetle",
+    "aliases": [
+      "bb"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "cc",
+    "name": "Captain Cold",
+    "aliases": [
+      "cc"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "cth",
+    "name": "Cheetah",
+    "aliases": [
+      "cth"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "cbm",
+    "name": "Classic Batman",
+    "aliases": [
+      "cbm"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "csm",
+    "name": "Classic Superman",
+    "aliases": [
+      "csm"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "cww",
+    "name": "Classic Wonder Woman",
+    "aliases": [
+      "cww"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "dsg",
+    "name": "Dark Supergirl",
+    "aliases": [
+      "dsg",
+      "dark super girl"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "esf",
+    "name": "Energised Starfire",
+    "aliases": [
+      "esf",
+      "energized starfire"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "eb",
+    "name": "Enraged Bane",
+    "aliases": [
+      "eb"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "fs",
+    "name": "Firestorm",
+    "aliases": [
+      "fs"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "fpi",
+    "name": "Flora Poison Ivy",
+    "aliases": [
+      "fpi"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "grid",
+    "name": "Grid",
+    "aliases": [
+      "grid"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "hb",
+    "name": "Hellboy",
+    "aliases": [
+      "hb"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "hsc",
+    "name": "Horrific Scarecrow",
+    "aliases": [
+      "hsc"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "kbm",
+    "name": "Knightmare Batman",
+    "aliases": [
+      "kbm"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "mtcw",
+    "name": "Masterthief Catwoman",
+    "aliases": [
+      "mtcw",
+      "master thief catwoman"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "nw",
+    "name": "Nightwing",
+    "aliases": [
+      "nw"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "pbm",
+    "name": "Predator Batman",
+    "aliases": [
+      "pbm"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "pst",
+    "name": "Primal Swamp Thing",
+    "aliases": [
+      "pst"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "psg",
+    "name": "Powered Supergirl",
+    "aliases": [
+      "psg"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "pg",
+    "name": "Power Girl",
+    "aliases": [
+      "pg"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "rdn",
+    "name": "Raiden",
+    "aliases": [
+      "rdn"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "rh",
+    "name": "Red Hood",
+    "aliases": [
+      "rh",
+      "redhood"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "rf",
+    "name": "Reverse Flash",
+    "aliases": [
+      "rf"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "sb",
+    "name": "Silver Banshee",
+    "aliases": [
+      "sb"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "szm",
+    "name": "Shazam",
+    "aliases": [
+      "szm"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "svbc",
+    "name": "Sonic Black Canary",
+    "aliases": [
+      "svbc",
+      "sonic black canary"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "ssdf",
+    "name": "Soul Stealer Dr. Fate",
+    "aliases": [
+      "ssdf"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "sff",
+    "name": "Speed Force Flash",
+    "aliases": [
+      "sff"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "sz",
+    "name": "Sub-Zero",
+    "aliases": [
+      "sz",
+      "subzero",
+      "sub zero"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "tkgg",
+    "name": "Telekinetic Gorilla Grodd",
+    "aliases": [
+      "tkgg"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "ubc",
+    "name": "Unbreakable Cyborg",
+    "aliases": [
+      "ubc"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "uhq",
+    "name": "Unhinged Harley Quinn",
+    "aliases": [
+      "uhq"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "vxn",
+    "name": "Vixen",
+    "aliases": [
+      "vxn"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "wqww",
+    "name": "Warrior Queen Wonder Woman",
+    "aliases": [
+      "wqww"
+    ],
+    "class": "",
+    "rarity": "gold",
+    "faction": "Gold"
+  },
+  {
+    "id": "aww",
+    "name": "Amazon Wonder Woman",
+    "aliases": [
+      "aww"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svam",
+    "name": "Silver Aquaman",
+    "aliases": [
+      "svam"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svb",
+    "name": "Silver Bane",
+    "aliases": [
+      "svb"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svbm",
+    "name": "Silver Batman",
+    "aliases": [
+      "svbm"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svbcs",
+    "name": "Silver Black Canary",
+    "aliases": [
+      "svbcs",
+      "svbc-silver",
+      "silver black canary"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svsm",
+    "name": "Silver Superman",
+    "aliases": [
+      "svsm"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svcw",
+    "name": "Silver Catwoman",
+    "aliases": [
+      "svcw"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svc",
+    "name": "Silver Cyborg",
+    "aliases": [
+      "svc"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svds",
+    "name": "Silver Deadshot",
+    "aliases": [
+      "svds"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svdf",
+    "name": "Silver Doctor Fate",
+    "aliases": [
+      "svdf",
+      "doctor fate"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svf",
+    "name": "Silver Flash",
+    "aliases": [
+      "svf"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svga",
+    "name": "Silver Green Arrow",
+    "aliases": [
+      "svga"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svgg",
+    "name": "Silver Gorilla Grodd",
+    "aliases": [
+      "svgg"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svhq",
+    "name": "Silver Harley Quinn",
+    "aliases": [
+      "svhq"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svj",
+    "name": "Silver Joker",
+    "aliases": [
+      "svj"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svr",
+    "name": "Silver Robin",
+    "aliases": [
+      "svr"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svsc",
+    "name": "Silver Scarecrow",
+    "aliases": [
+      "svsc"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svst",
+    "name": "Silver Swamp Thing",
+    "aliases": [
+      "svst"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
+  },
+  {
+    "id": "svww",
+    "name": "Silver Wonder Woman",
+    "aliases": [
+      "svww"
+    ],
+    "class": "",
+    "rarity": "silver",
+    "faction": "Silver"
   }
 ]

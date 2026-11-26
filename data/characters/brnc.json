@@ -1,0 +1,28 @@
+{
+  "id": "brnc",
+  "name": "Brainiac",
+  "aliases": [
+    "brnc"
+  ],
+  "class": "",
+  "rarity": "legendary",
+  "faction": "Legendary",
+  "builds": [
+    {
+      "id": "default",
+      "label": "Guía principal",
+      "priority": 1,
+      "abilityOrder": [],
+      "abilityNotes": "",
+      "talents": [],
+      "talentNotes": "",
+      "gear": {
+        "focus": "",
+        "chanceEffects": [],
+        "artifact": ""
+      },
+      "teamSynergy": [],
+      "notes": "Pendiente de completar."
+    }
+  ]
+}

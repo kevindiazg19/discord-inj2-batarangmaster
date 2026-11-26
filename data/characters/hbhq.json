@@ -1,0 +1,28 @@
+{
+  "id": "hbhq",
+  "name": "Heart Breaker Harley Quinn",
+  "aliases": [
+    "hbhq"
+  ],
+  "class": "",
+  "rarity": "gold",
+  "faction": "League of Anarchy",
+  "builds": [
+    {
+      "id": "default",
+      "label": "Guía principal",
+      "priority": 1,
+      "abilityOrder": [],
+      "abilityNotes": "",
+      "talents": [],
+      "talentNotes": "",
+      "gear": {
+        "focus": "",
+        "chanceEffects": [],
+        "artifact": ""
+      },
+      "teamSynergy": [],
+      "notes": "Pendiente de completar."
+    }
+  ]
+}

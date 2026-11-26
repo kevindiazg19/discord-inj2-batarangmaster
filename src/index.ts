@@ -7,7 +7,7 @@ import { GUIA_COMMAND, HELP_COMMAND, LIST_COMMAND } from "./commands.js";
 import {
   buildEmbed,
   helpEmbed,
-  listEmbed,
+  listEmbeds,
   notFoundEmbed,
 } from "./embeds.js";
 import {
@@ -94,7 +94,7 @@ async function handleInteraction(interaction: {
         return new JsonResponse({
           type: InteractionResponseType.CHANNEL_MESSAGE_WITH_SOURCE,
           data: {
-            embeds: [listEmbed(listCharacters())],
+            embeds: listEmbeds(listCharacters()).slice(0, 10),
             flags: ephemeralFlags(),
           },
         });

@@ -1,0 +1,28 @@
+{
+  "id": "jlf",
+  "name": "Justice League Flash",
+  "aliases": [
+    "jlf"
+  ],
+  "class": "",
+  "rarity": "gold",
+  "faction": "Justice League",
+  "builds": [
+    {
+      "id": "default",
+      "label": "Guía principal",
+      "priority": 1,
+      "abilityOrder": [],
+      "abilityNotes": "",
+      "talents": [],
+      "talentNotes": "",
+      "gear": {
+        "focus": "",
+        "chanceEffects": [],
+        "artifact": ""
+      },
+      "teamSynergy": [],
+      "notes": "Pendiente de completar."
+    }
+  ]
+}

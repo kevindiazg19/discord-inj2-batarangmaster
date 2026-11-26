@@ -23,6 +23,7 @@ export type Character = {
   aliases: string[];
   class: string;
   rarity: string;
+  faction?: string;
   builds: Build[];
 };
 
@@ -32,6 +33,7 @@ export type CharacterIndexEntry = {
   aliases: string[];
   class: string;
   rarity: string;
+  faction?: string;
 };
 
 export type Env = {

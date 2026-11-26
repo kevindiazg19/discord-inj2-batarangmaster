@@ -103,12 +103,17 @@ npm run dev
 
 For Discord to reach your laptop you need a public HTTPS tunnel (Cloudflare Tunnel, ngrok, etc.) pointed at the local Wrangler port, then temporarily set that URL as the Interactions Endpoint URL.
 
-## Adding a character build
+## Adding or updating character builds
 
-1. Create `data/characters/<id>.json` using Batman/Wonder Woman as templates.
-2. Add an entry to `data/index.json` (`id`, `name`, `aliases`, `class`, `rarity`).
-3. Import the JSON in [`src/characters.ts`](src/characters.ts) and append it to `CHARACTERS`.
-4. Redeploy: `npm run deploy`.
+Preferred workflow:
+
+1. Edit `data/characters/<id>.json` (or add a new file using an existing stub as template).
+2. Run `npm run generate-roster` to refresh `data/roster.json` and `data/index.json`.
+3. Redeploy: `npm run deploy`.
+
+You can also look up characters by abbreviation, e.g. `/guia character:jlb`.
+
+Note: Gold **Sonic Black Canary** uses id `svbc`. Silver Black Canary uses `svbcs` (same community abbrev collided).
 
 Build fields:
 

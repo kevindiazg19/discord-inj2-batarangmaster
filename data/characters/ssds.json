@@ -1,0 +1,28 @@
+{
+  "id": "ssds",
+  "name": "Suicide Squad Deadshot",
+  "aliases": [
+    "ssds"
+  ],
+  "class": "",
+  "rarity": "gold",
+  "faction": "Suicide Squad",
+  "builds": [
+    {
+      "id": "default",
+      "label": "Guía principal",
+      "priority": 1,
+      "abilityOrder": [],
+      "abilityNotes": "",
+      "talents": [],
+      "talentNotes": "",
+      "gear": {
+        "focus": "",
+        "chanceEffects": [],
+        "artifact": ""
+      },
+      "teamSynergy": [],
+      "notes": "Pendiente de completar."
+    }
+  ]
+}

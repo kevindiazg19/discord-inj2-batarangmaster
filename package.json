@@ -8,6 +8,7 @@
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
     "register": "tsx src/register.ts",
+    "generate-roster": "node scripts/generate-roster.mjs",
     "typecheck": "tsc --noEmit",
     "test": "tsx --test test/*.test.ts"
   },

@@ -1,0 +1,28 @@
+{
+  "id": "svsc",
+  "name": "Silver Scarecrow",
+  "aliases": [
+    "svsc"
+  ],
+  "class": "",
+  "rarity": "silver",
+  "faction": "Silver",
+  "builds": [
+    {
+      "id": "default",
+      "label": "Guía principal",
+      "priority": 1,
+      "abilityOrder": [],
+      "abilityNotes": "",
+      "talents": [],
+      "talentNotes": "",
+      "gear": {
+        "focus": "",
+        "chanceEffects": [],
+        "artifact": ""
+      },
+      "teamSynergy": [],
+      "notes": "Pendiente de completar."
+    }
+  ]
+}

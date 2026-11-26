@@ -1,0 +1,30 @@
+{
+  "id": "sz",
+  "name": "Sub-Zero",
+  "aliases": [
+    "sz",
+    "subzero",
+    "sub zero"
+  ],
+  "class": "",
+  "rarity": "gold",
+  "faction": "Gold",
+  "builds": [
+    {
+      "id": "default",
+      "label": "Guía principal",
+      "priority": 1,
+      "abilityOrder": [],
+      "abilityNotes": "",
+      "talents": [],
+      "talentNotes": "",
+      "gear": {
+        "focus": "",
+        "chanceEffects": [],
+        "artifact": ""
+      },
+      "teamSynergy": [],
+      "notes": "Pendiente de completar."
+    }
+  ]
+}

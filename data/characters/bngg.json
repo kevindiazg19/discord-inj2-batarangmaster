@@ -1,0 +1,28 @@
+{
+  "id": "bngg",
+  "name": "Batman Ninja Gorilla Grodd",
+  "aliases": [
+    "bngg"
+  ],
+  "class": "",
+  "rarity": "legendary",
+  "faction": "Batman Ninja",
+  "builds": [
+    {
+      "id": "default",
+      "label": "Guía principal",
+      "priority": 1,
+      "abilityOrder": [],
+      "abilityNotes": "",
+      "talents": [],
+      "talentNotes": "",
+      "gear": {
+        "focus": "",
+        "chanceEffects": [],
+        "artifact": ""
+      },
+      "teamSynergy": [],
+      "notes": "Pendiente de completar."
+    }
+  ]
+}

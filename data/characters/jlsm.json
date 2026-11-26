@@ -1,0 +1,29 @@
+{
+  "id": "jlsm",
+  "name": "Justice League Superman",
+  "aliases": [
+    "jlsm",
+    "jls"
+  ],
+  "class": "",
+  "rarity": "legendary",
+  "faction": "Justice League",
+  "builds": [
+    {
+      "id": "default",
+      "label": "Guía principal",
+      "priority": 1,
+      "abilityOrder": [],
+      "abilityNotes": "",
+      "talents": [],
+      "talentNotes": "",
+      "gear": {
+        "focus": "",
+        "chanceEffects": [],
+        "artifact": ""
+      },
+      "teamSynergy": [],
+      "notes": "Pendiente de completar."
+    }
+  ]
+}

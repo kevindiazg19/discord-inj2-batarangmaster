@@ -22,35 +22,42 @@ function field(name: string, value: string, inline = false): EmbedField {
 
 export function buildEmbed(character: Character, build: Build): Embed {
   const modes = character.builds.map((b) => b.id).join(", ");
+  const meta = [
+    character.rarity,
+    character.class,
+    character.faction,
+  ]
+    .filter((part) => part && part.trim())
+    .join(" · ");
 
   return {
     title: `${character.name} — ${build.label}`,
     description: clamp(
-      `${character.rarity} · ${character.class}\nMode: \`${build.id}\`${
-        modes.includes(",") ? ` (also: ${modes})` : ""
+      `${meta || "Sin clasificación"}\nModo: \`${build.id}\`${
+        modes.includes(",") ? ` (también: ${modes})` : ""
       }`,
       4096
     ),
     color: EMBED_COLOR,
     fields: [
-      field("Ability order", build.abilityOrder.join(" → ")),
-      field("Ability notes", build.abilityNotes),
-      field("Talents", build.talents.join(" · ")),
-      field("Talent notes", build.talentNotes),
-      field("Gear focus", build.gear.focus),
+      field("Orden de habilidades", build.abilityOrder.join(" → ")),
+      field("Notas de habilidades", build.abilityNotes),
+      field("Talentos", build.talents.join(" · ")),
+      field("Notas de talentos", build.talentNotes),
+      field("Enfoque de gear", build.gear.focus),
       field(
         "Chance effects",
         build.gear.chanceEffects.map((e) => `• ${e}`).join("\n")
       ),
-      field("Artifact", build.gear.artifact),
+      field("Artefacto", build.gear.artifact),
       field(
-        "Team synergy",
+        "Sinergia de equipo",
         build.teamSynergy.map((t) => `• ${t}`).join("\n")
       ),
-      field("Notes", build.notes),
+      field("Notas", build.notes),
     ],
     footer: {
-      text: "Injustice 2 Mobile builds · curated lookup",
+      text: "Injustice 2 Mobile · guías curadas",
     },
   };
 }
@@ -69,24 +76,61 @@ export function notFoundEmbed(query: string, suggestions: { name: string; id: st
   };
 }
 
-export function listEmbed(
-  entries: { name: string; id: string; class: string; rarity: string }[]
-): Embed {
-  const lines = entries.map(
-    (e) => `• **${e.name}** — \`${e.id}\` (${e.rarity} ${e.class})`
-  );
+type ListEntry = {
+  name: string;
+  id: string;
+  class: string;
+  rarity: string;
+  faction?: string;
+};
 
-  return {
-    title: "Personajes con guía",
+/** Split roster into multiple embeds (Discord description limit is 4096). */
+export function listEmbeds(entries: ListEntry[]): Embed[] {
+  if (!entries.length) {
+    return [
+      {
+        title: "Personajes con guía",
+        description: "Aún no hay personajes. Agrega JSON en `data/characters/`.",
+        color: EMBED_COLOR,
+        fields: [],
+      },
+    ];
+  }
+
+  const lines = entries.map((e) => `• \`${e.id}\` — **${e.name}**`);
+  const chunks: string[][] = [];
+  let current: string[] = [];
+  let size = 0;
+
+  for (const line of lines) {
+    const next = size + line.length + 1;
+    if (current.length && next > 3800) {
+      chunks.push(current);
+      current = [];
+      size = 0;
+    }
+    current.push(line);
+    size += line.length + 1;
+  }
+  if (current.length) chunks.push(current);
+
+  return chunks.map((chunk, i) => ({
+    title:
+      chunks.length === 1
+        ? `Personajes con guía (${entries.length})`
+        : `Personajes con guía (${entries.length}) · ${i + 1}/${chunks.length}`,
     description: clamp(
-      lines.length
-        ? `${lines.join("\n")}\n\nUsa \`/guia character:<nombre>\``
-        : "Aún no hay personajes. Agrega JSON en `data/characters/`.",
+      `${chunk.join("\n")}\n\nUsa \`/guia character:<id o nombre>\``,
       4096
     ),
     color: EMBED_COLOR,
     fields: [],
-  };
+  }));
+}
+
+/** @deprecated Prefer listEmbeds for large rosters */
+export function listEmbed(entries: ListEntry[]): Embed {
+  return listEmbeds(entries)[0];
 }
 
 export function helpEmbed(): Embed {

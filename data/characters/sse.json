@@ -1,0 +1,28 @@
+{
+  "id": "sse",
+  "name": "Suicide Squad Enchantress",
+  "aliases": [
+    "sse"
+  ],
+  "class": "",
+  "rarity": "legendary",
+  "faction": "Suicide Squad",
+  "builds": [
+    {
+      "id": "default",
+      "label": "Guía principal",
+      "priority": 1,
+      "abilityOrder": [],
+      "abilityNotes": "",
+      "talents": [],
+      "talentNotes": "",
+      "gear": {
+        "focus": "",
+        "chanceEffects": [],
+        "artifact": ""
+      },
+      "teamSynergy": [],
+      "notes": "Pendiente de completar."
+    }
+  ]
+}

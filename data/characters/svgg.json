@@ -1,0 +1,28 @@
+{
+  "id": "svgg",
+  "name": "Silver Gorilla Grodd",
+  "aliases": [
+    "svgg"
+  ],
+  "class": "",
+  "rarity": "silver",
+  "faction": "Silver",
+  "builds": [
+    {
+      "id": "default",
+      "label": "Guía principal",
+      "priority": 1,
+      "abilityOrder": [],
+      "abilityNotes": "",
+      "talents": [],
+      "talentNotes": "",
+      "gear": {
+        "focus": "",
+        "chanceEffects": [],
+        "artifact": ""
+      },
+      "teamSynergy": [],
+      "notes": "Pendiente de completar."
+    }
+  ]
+}
